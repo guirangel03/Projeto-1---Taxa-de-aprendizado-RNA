@@ -18,8 +18,11 @@ sklearn.metrics.confusion_matrix – Para gerar a matriz de confusão (avaliaç�
 
 ## O ruído Gaussiano foi adicionado com o seguinte script/link:
 
-📁 ruido_gaussiano.py ou 🔗 Notebook no Colab
+🔊 Ruído Gaussiano
+O ruído Gaussiano foi adicionado e testado neste notebook:
 
-O ruído é adicionado às imagens para avaliar a robustez da RNA sob condições adversas.
+[Notebook no Google Colab](https://colab.research.google.com/drive/1LPrHCrJaJkRfAOd01p3SGPaYnHp98G_r#scrollTo=cEHl-wttDy-1)
 
+
+O notebook mostra como o ruído é inserido nas imagens do dataset MNIST e como isso afeta a performance da RNA.
 
