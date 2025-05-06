@@ -16,6 +16,14 @@ matplotlib.pyplot (plt) – Para visualização gráfica.
 seaborn (sns) – Para visualizações estatísticas mais elegantes.
 sklearn.metrics.confusion_matrix – Para gerar a matriz de confusão (avaliação de modelos de classificação).
 
+## 🚀 Como executar
+
+Você pode executar este projeto diretamente no Google Colab, sem necessidade de instalação local.
+
+🔗 [Acessar o notebook no Colab](https://colab.research.google.com/drive/1LPrHCrJaJkRfAOd01p3SGPaYnHp98G_r#scrollTo=cEHl-wttDy-1)
+
+> Basta clicar no link, conectar ao ambiente do Colab e rodar as células.
+
 ## O ruído Gaussiano foi adicionado com o seguinte script/link:
 
 🔊 Ruído Gaussiano
